@@ -1,0 +1,4 @@
+interface:
+  display_name: "2ChO 试卷、评分细则与答题卡排版"
+  short_description: "按模考定稿排版含底图的试卷、评分细则和双层答题卡，核对字号、分值与分页"
+  default_prompt: "用 $2cho-exam-layout 按定稿格式排版我提供的试卷、评分细则或答题卡，并核对打印效果。"
